@@ -1,4 +1,3 @@
-````markdown
 # Sistema de Monitoramento de Água com Detecção de Outliers (ESP32 + SD Card)
 
 Este repositório reúne o código, os dados e a documentação de um sistema de monitoramento de água voltado para a comunidade rural do Riacho, em Amarantina.
