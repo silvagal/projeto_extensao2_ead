@@ -118,8 +118,6 @@ GPIO5                ->   CS
 CD                   ->   (não conectado)
 ```
 
-Imagem ilustrativa (substituir pelo arquivo real):
-
 
 ![Esquemático do sistema](imagens/esquematico.PNG)
 
