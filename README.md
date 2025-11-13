@@ -8,6 +8,9 @@ Ele é uma **extensão do Projeto de Extensão 1**, no qual foi desenvolvido um 
 - a **quantidade de litros bombeados**  
 - o **tempo de funcionamento da bomba**
 
+[Vídeo do projeto de extensão 1 no YouTube](https://youtu.be/-hB9_I5IgXk)
+[Repositório do projeto de extensão 1 no GitHub]([https://youtu.be/-hB9_I5IgXk](https://github.com/silvagal/sistema_medicao_fluxo_agua))
+
 O problema identificado na etapa anterior foi que, embora as medições fossem registradas diariamente, era **muito difícil para o usuário analisar manualmente** todos os registros em busca de irregularidades, por exemplo:
 
 - dias em que a bomba ficou ligada por muito tempo e quase não bombeou água (falha de sucção, entrada de ar, poço muito baixo etc.)  
@@ -51,6 +54,7 @@ Em resumo, o sistema faz o seguinte:
 
 Dessa forma, o morador não precisa analisar linha por linha, pois o sistema já destaca automaticamente os dias suspeitos.
 
+[Vídeo do projeto de extensão 2 no YouTube](https://youtu.be/W7Dq3uiTRVw)
 ---
 
 ## 2. Estrutura do repositório
@@ -59,7 +63,7 @@ Sugestão de organização:
 
 ```text
 .
-├── src/
+├── código/
 │   └── main.c               # Código em C (ESP-IDF) com todo o algoritmo
 ├── dados/
 │   └── medicoes.txt         # Arquivo de medições usadas pelo sistema
