@@ -9,6 +9,7 @@ Ele é uma **extensão do Projeto de Extensão 1**, no qual foi desenvolvido um 
 - o **tempo de funcionamento da bomba**
 
 [Vídeo do projeto de extensão 1 no YouTube](https://youtu.be/-hB9_I5IgXk)
+
 [Repositório do projeto de extensão 1 no GitHub]([https://youtu.be/-hB9_I5IgXk](https://github.com/silvagal/sistema_medicao_fluxo_agua))
 
 O problema identificado na etapa anterior foi que, embora as medições fossem registradas diariamente, era **muito difícil para o usuário analisar manualmente** todos os registros em busca de irregularidades, por exemplo:
