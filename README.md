@@ -121,7 +121,7 @@ CD                   ->   (não conectado)
 Imagem ilustrativa (substituir pelo arquivo real):
 
 ```markdown
-![Esquemático do sistema](imagens/esquematico.png)
+![Esquemático do sistema](imagens/esquematico.PNG)
 ```
 
 ---
@@ -193,7 +193,7 @@ Dessa forma, apenas as medições com desvios mais extremos, aproximadamente 10%
 No Python, foi gerado um gráfico semelhante a este:
 
 ```markdown
-![Gráfico com outliers destacados](imagens/grafico_outliers.png)
+![Gráfico com outliers destacados](imagens/grafico_outliers.PNG)
 ```
 
 * Pontos azuis: medições normais
