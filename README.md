@@ -451,7 +451,3 @@ DD/MM/AAAA 000123.456789L HH:MM:SS
 ---
 
 Este projeto foi desenvolvido como parte de um **projeto de extensão em Ciência da Computação**, aplicado à realidade de uma comunidade rural que depende de poços artesianos e córregos para seu abastecimento de água, buscando oferecer uma ferramenta acessível de monitoramento e apoio à tomada de decisão.
-
-```
-::contentReference[oaicite:0]{index=0}
-```
