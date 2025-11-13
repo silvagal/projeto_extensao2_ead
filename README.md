@@ -97,7 +97,7 @@ Sugestão de organização:
 ### 3.2. Software e ambiente
 
 * **ESP-IDF** (framework oficial da Espressif)
-* **Wokwi** para simulação do ESP32 + SD card
+* **Wokwi** para simulação do ESP32 + SD card ([link](https://wokwi.com/))
 * **Python** (etapa anterior, para análise e validação dos gráficos)
 
 ---
@@ -189,7 +189,7 @@ Dessa forma, apenas as medições com desvios mais extremos, aproximadamente 10%
 
 No Python, foi gerado um gráfico semelhante a este (o notebook utilizado para gerar esse gráfico está na pasta notebooks deste repositório):
 
-![Gráfico com outliers destacados](imagens/grafico_outliers.PNG)
+![Gráfico com outliers destacados](imagens/grafico_outliers.png)
 
 * Pontos azuis: medições normais
 * Pontos vermelhos: outliers
